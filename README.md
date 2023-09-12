@@ -1,2 +1,2 @@
 # AI_Special
-This is a image generate code created by artemismoon
+This is a Deep learning code created by artemismoon
